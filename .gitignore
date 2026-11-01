@@ -1,0 +1,6 @@
+# 背景の写真 (フリー素材・生成画像) は、再配布にあたるためリポジトリに入れない。出どころは credits.json / CREDITS.md に記録する
+assets/backgrounds/**/*.jpg
+assets/backgrounds/**/*.jpeg
+assets/backgrounds/**/*.png
+# 投稿前の確認用の一時ファイル
+posts/**/preview.jpg
