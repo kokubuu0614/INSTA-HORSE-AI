@@ -8,4 +8,5 @@
 - 投稿URL: https://www.instagram.com/p/DfKZ8GakTYX/
 
 ## レース結果 (投稿後に記入)
-(未記入)
+- ◎の着順: 11着 / 単勝払戻 0円 / 複勝払戻 0円
+- 結果投稿: https://www.instagram.com/p/DfMTpwRlclG/
