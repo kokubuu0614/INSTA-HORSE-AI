@@ -3,8 +3,9 @@
 - race_id: 2026110705050111
 - AI予想の出典: 自作AI予想 (Facet_Horse)
 - ◎: 2 フレイコン (勝率24.2% / 複勝率55.7%)
-- 状態: 下書き (未投稿)
-- Instagram投稿ID: (未投稿)
+- 状態: 投稿済み (2026-11-06T19:31:44)
+- Instagram投稿ID: 18355145791266572
+- 投稿URL: https://www.instagram.com/p/DfZZesOFdFo/
 
 ## レース結果 (投稿後に記入)
 (未記入)
